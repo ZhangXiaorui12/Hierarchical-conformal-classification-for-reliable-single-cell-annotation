@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.1.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+    <Lexicon id="LCA_wo_CD4-en" label="Wordnet for the LCA_wo_CD4 dataset" language="en" email="email@email" license="https://creativecommons.org/licenses/by/4.0/" version="1.0">
+        <LexicalEntry id="LCA_wo_CD4-en-cell-n">
+            <Lemma writtenForm="cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-cell-sense-0-n" synset="LCA_wo_CD4-en-cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-eukaryotic cell-n">
+            <Lemma writtenForm="eukaryotic cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-eukaryotic cell-sense-0-n" synset="LCA_wo_CD4-en-eukaryotic cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-epithelial cell-n">
+            <Lemma writtenForm="epithelial cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-epithelial cell-sense-0-n" synset="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-endothelial cell-n">
+            <Lemma writtenForm="endothelial cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-endothelial cell-sense-0-n" synset="LCA_wo_CD4-en-endothelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-mesenchymal cell-n">
+            <Lemma writtenForm="mesenchymal cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-mesenchymal cell-sense-0-n" synset="LCA_wo_CD4-en-mesenchymal cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-hematopoietic cell-n">
+            <Lemma writtenForm="hematopoietic cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-hematopoietic cell-sense-0-n" synset="LCA_wo_CD4-en-hematopoietic cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-basal cell-n">
+            <Lemma writtenForm="basal cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-basal cell-sense-0-n" synset="LCA_wo_CD4-en-basal cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-lung multiciliated epithelial cell-n">
+            <Lemma writtenForm="lung multiciliated epithelial cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-lung multiciliated epithelial cell-sense-0-n" synset="LCA_wo_CD4-en-lung multiciliated epithelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-ciliated cell-n">
+            <Lemma writtenForm="ciliated cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-ciliated cell-sense-0-n" synset="LCA_wo_CD4-en-ciliated cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-club cell-n">
+            <Lemma writtenForm="club cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-club cell-sense-0-n" synset="LCA_wo_CD4-en-club cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-lung goblet cell-n">
+            <Lemma writtenForm="lung goblet cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-lung goblet cell-sense-0-n" synset="LCA_wo_CD4-en-lung goblet cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-pulmonary ionocyte-n">
+            <Lemma writtenForm="pulmonary ionocyte" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-pulmonary ionocyte-sense-0-n" synset="LCA_wo_CD4-en-pulmonary ionocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-tracheobronchial serous cell-n">
+            <Lemma writtenForm="tracheobronchial serous cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-tracheobronchial serous cell-sense-0-n" synset="LCA_wo_CD4-en-tracheobronchial serous cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-pulmonary alveolar epithelial cell-n">
+            <Lemma writtenForm="pulmonary alveolar epithelial cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-pulmonary alveolar epithelial cell-sense-0-n" synset="LCA_wo_CD4-en-pulmonary alveolar epithelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-mesothelial cell of pleura-n">
+            <Lemma writtenForm="mesothelial cell of pleura" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-mesothelial cell of pleura-sense-0-n" synset="LCA_wo_CD4-en-mesothelial cell of pleura-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-pulmonary alveolar type 1 cell-n">
+            <Lemma writtenForm="pulmonary alveolar type 1 cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-pulmonary alveolar type 1 cell-sense-0-n" synset="LCA_wo_CD4-en-pulmonary alveolar type 1 cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-pulmonary alveolar type 2 cell-n">
+            <Lemma writtenForm="pulmonary alveolar type 2 cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-pulmonary alveolar type 2 cell-sense-0-n" synset="LCA_wo_CD4-en-pulmonary alveolar type 2 cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-endothelial cell of artery-n">
+            <Lemma writtenForm="endothelial cell of artery" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-endothelial cell of artery-sense-0-n" synset="LCA_wo_CD4-en-endothelial cell of artery-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-vein endothelial cell-n">
+            <Lemma writtenForm="vein endothelial cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-vein endothelial cell-sense-0-n" synset="LCA_wo_CD4-en-vein endothelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-capillary endothelial cell-n">
+            <Lemma writtenForm="capillary endothelial cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-capillary endothelial cell-sense-0-n" synset="LCA_wo_CD4-en-capillary endothelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-endothelial cell of lymphatic vessel-n">
+            <Lemma writtenForm="endothelial cell of lymphatic vessel" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-endothelial cell of lymphatic vessel-sense-0-n" synset="LCA_wo_CD4-en-endothelial cell of lymphatic vessel-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-fibroblast-n">
+            <Lemma writtenForm="fibroblast" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-fibroblast-sense-0-n" synset="LCA_wo_CD4-en-fibroblast-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-pericyte-n">
+            <Lemma writtenForm="pericyte" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-pericyte-sense-0-n" synset="LCA_wo_CD4-en-pericyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-smooth muscle cell-n">
+            <Lemma writtenForm="smooth muscle cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-smooth muscle cell-sense-0-n" synset="LCA_wo_CD4-en-smooth muscle cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-bronchial smooth muscle cell-n">
+            <Lemma writtenForm="bronchial smooth muscle cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-bronchial smooth muscle cell-sense-0-n" synset="LCA_wo_CD4-en-bronchial smooth muscle cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-vascular associated smooth muscle cell-n">
+            <Lemma writtenForm="vascular associated smooth muscle cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-vascular associated smooth muscle cell-sense-0-n" synset="LCA_wo_CD4-en-vascular associated smooth muscle cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-lymphoid lineage-n">
+            <Lemma writtenForm="lymphoid lineage" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-lymphoid lineage-sense-0-n" synset="LCA_wo_CD4-en-lymphoid lineage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-myeloid lineage-n">
+            <Lemma writtenForm="myeloid lineage" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-myeloid lineage-sense-0-n" synset="LCA_wo_CD4-en-myeloid lineage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-T cell-n">
+            <Lemma writtenForm="T cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-T cell-sense-0-n" synset="LCA_wo_CD4-en-T cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-B cell-n">
+            <Lemma writtenForm="B cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-B cell-sense-0-n" synset="LCA_wo_CD4-en-B cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-plasma cell-n">
+            <Lemma writtenForm="plasma cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-plasma cell-sense-0-n" synset="LCA_wo_CD4-en-plasma cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-natural killer cell-n">
+            <Lemma writtenForm="natural killer cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-natural killer cell-sense-0-n" synset="LCA_wo_CD4-en-natural killer cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-mature NK T cell-n">
+            <Lemma writtenForm="mature NK T cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-mature NK T cell-sense-0-n" synset="LCA_wo_CD4-en-mature NK T cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-CD4_positive_ alpha_beta T cell-n">
+            <Lemma writtenForm="CD4_positive_ alpha_beta T cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-CD4_positive_ alpha_beta T cell-sense-0-n" synset="LCA_wo_CD4-en-CD4_positive_ alpha_beta T cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-CD8_positive_ alpha_beta T cell-n">
+            <Lemma writtenForm="CD8_positive_ alpha_beta T cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-CD8_positive_ alpha_beta T cell-sense-0-n" synset="LCA_wo_CD4-en-CD8_positive_ alpha_beta T cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-effector memory CD4_positive_ alpha_beta T cell-n">
+            <Lemma writtenForm="effector memory CD4_positive_ alpha_beta T cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-effector memory CD4_positive_ alpha_beta T cell-sense-0-n" synset="LCA_wo_CD4-en-effector memory CD4_positive_ alpha_beta T cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-naive thymus_derived CD8_positive_ alpha_beta T cell-n">
+            <Lemma writtenForm="naive thymus_derived CD8_positive_ alpha_beta T cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-naive thymus_derived CD8_positive_ alpha_beta T cell-sense-0-n" synset="LCA_wo_CD4-en-naive thymus_derived CD8_positive_ alpha_beta T cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-effector memory CD8_positive_ alpha_beta T cell-n">
+            <Lemma writtenForm="effector memory CD8_positive_ alpha_beta T cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-effector memory CD8_positive_ alpha_beta T cell-sense-0-n" synset="LCA_wo_CD4-en-effector memory CD8_positive_ alpha_beta T cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-monocyte-n">
+            <Lemma writtenForm="monocyte" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-monocyte-sense-0-n" synset="LCA_wo_CD4-en-monocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-macrophage-n">
+            <Lemma writtenForm="macrophage" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-macrophage-sense-0-n" synset="LCA_wo_CD4-en-macrophage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-dendritic cell-n">
+            <Lemma writtenForm="dendritic cell" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-dendritic cell-sense-0-n" synset="LCA_wo_CD4-en-dendritic cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-megakaryocyte-n">
+            <Lemma writtenForm="megakaryocyte" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-megakaryocyte-sense-0-n" synset="LCA_wo_CD4-en-megakaryocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-myeloid leukocyte-n">
+            <Lemma writtenForm="myeloid leukocyte" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-myeloid leukocyte-sense-0-n" synset="LCA_wo_CD4-en-myeloid leukocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-classical monocyte-n">
+            <Lemma writtenForm="classical monocyte" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-classical monocyte-sense-0-n" synset="LCA_wo_CD4-en-classical monocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-intermediate monocyte-n">
+            <Lemma writtenForm="intermediate monocyte" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-intermediate monocyte-sense-0-n" synset="LCA_wo_CD4-en-intermediate monocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="LCA_wo_CD4-en-non_classical monocyte-n">
+            <Lemma writtenForm="non_classical monocyte" partOfSpeech="n"/>
+            <Sense id="LCA_wo_CD4-en-non_classical monocyte-sense-0-n" synset="LCA_wo_CD4-en-non_classical monocyte-synset-0-n"/>
+        </LexicalEntry>
+        <Synset id="LCA_wo_CD4-en-cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-cell-sense-0-n">
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-eukaryotic cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-eukaryotic cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-eukaryotic cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-endothelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-mesenchymal cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-hematopoietic cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-epithelial cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-epithelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-eukaryotic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-basal cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-lung multiciliated epithelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-ciliated cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-club cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-lung goblet cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-pulmonary ionocyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-tracheobronchial serous cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-pulmonary alveolar epithelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-mesothelial cell of pleura-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-endothelial cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-endothelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-eukaryotic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-endothelial cell of artery-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-vein endothelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-capillary endothelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-endothelial cell of lymphatic vessel-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-mesenchymal cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-mesenchymal cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-eukaryotic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-fibroblast-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-pericyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-smooth muscle cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-hematopoietic cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-hematopoietic cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-eukaryotic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-lymphoid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-basal cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-basal cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-lung multiciliated epithelial cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-lung multiciliated epithelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-ciliated cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-ciliated cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-club cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-club cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-lung goblet cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-lung goblet cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-pulmonary ionocyte-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-pulmonary ionocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-tracheobronchial serous cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-tracheobronchial serous cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-pulmonary alveolar epithelial cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-pulmonary alveolar epithelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-pulmonary alveolar type 1 cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-pulmonary alveolar type 2 cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-mesothelial cell of pleura-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-mesothelial cell of pleura-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-pulmonary alveolar type 1 cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-pulmonary alveolar type 1 cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-pulmonary alveolar epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-pulmonary alveolar type 2 cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-pulmonary alveolar type 2 cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-pulmonary alveolar epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-endothelial cell of artery-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-endothelial cell of artery-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-endothelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-vein endothelial cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-vein endothelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-endothelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-capillary endothelial cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-capillary endothelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-endothelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-endothelial cell of lymphatic vessel-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-endothelial cell of lymphatic vessel-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-endothelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-fibroblast-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-fibroblast-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-mesenchymal cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-pericyte-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-pericyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-mesenchymal cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-smooth muscle cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-smooth muscle cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-mesenchymal cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-bronchial smooth muscle cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-vascular associated smooth muscle cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-bronchial smooth muscle cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-bronchial smooth muscle cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-smooth muscle cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-vascular associated smooth muscle cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-vascular associated smooth muscle cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-smooth muscle cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-lymphoid lineage-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-lymphoid lineage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-hematopoietic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-T cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-B cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-plasma cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-natural killer cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-mature NK T cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-myeloid lineage-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-myeloid lineage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-hematopoietic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-monocyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-macrophage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-dendritic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-megakaryocyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-myeloid leukocyte-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-T cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-T cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-lymphoid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-CD4_positive_ alpha_beta T cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-CD8_positive_ alpha_beta T cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-B cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-B cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-lymphoid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-plasma cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-plasma cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-lymphoid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-natural killer cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-natural killer cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-lymphoid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-mature NK T cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-mature NK T cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-lymphoid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-CD4_positive_ alpha_beta T cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-CD4_positive_ alpha_beta T cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-T cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-effector memory CD4_positive_ alpha_beta T cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-CD8_positive_ alpha_beta T cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-CD8_positive_ alpha_beta T cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-T cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-naive thymus_derived CD8_positive_ alpha_beta T cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-effector memory CD8_positive_ alpha_beta T cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-effector memory CD4_positive_ alpha_beta T cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-effector memory CD4_positive_ alpha_beta T cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-CD4_positive_ alpha_beta T cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-naive thymus_derived CD8_positive_ alpha_beta T cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-naive thymus_derived CD8_positive_ alpha_beta T cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-CD8_positive_ alpha_beta T cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-effector memory CD8_positive_ alpha_beta T cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-effector memory CD8_positive_ alpha_beta T cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-CD8_positive_ alpha_beta T cell-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-monocyte-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-monocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-myeloid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-classical monocyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-intermediate monocyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="LCA_wo_CD4-en-non_classical monocyte-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-macrophage-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-macrophage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-dendritic cell-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-dendritic cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-megakaryocyte-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-megakaryocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-myeloid leukocyte-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-myeloid leukocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-classical monocyte-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-classical monocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-monocyte-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-intermediate monocyte-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-intermediate monocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-monocyte-synset-0-n"/>
+        </Synset>
+        <Synset id="LCA_wo_CD4-en-non_classical monocyte-synset-0-n" ili="in" partOfSpeech="n" members="LCA_wo_CD4-en-non_classical monocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="LCA_wo_CD4-en-monocyte-synset-0-n"/>
+        </Synset>
+    </Lexicon>
+</LexicalResource>

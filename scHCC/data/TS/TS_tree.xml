@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.1.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+    <Lexicon id="TS-en" label="Wordnet for the TS dataset" language="en" email="email@email" license="https://creativecommons.org/licenses/by/4.0/" version="1.0">
+        <LexicalEntry id="TS-en-cell-n">
+            <Lemma writtenForm="cell" partOfSpeech="n"/>
+            <Sense id="TS-en-cell-sense-0-n" synset="TS-en-cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-eukaryotic cell-n">
+            <Lemma writtenForm="eukaryotic cell" partOfSpeech="n"/>
+            <Sense id="TS-en-eukaryotic cell-sense-0-n" synset="TS-en-eukaryotic cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-epithelial cell-n">
+            <Lemma writtenForm="epithelial cell" partOfSpeech="n"/>
+            <Sense id="TS-en-epithelial cell-sense-0-n" synset="TS-en-epithelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-endothelial cell-n">
+            <Lemma writtenForm="endothelial cell" partOfSpeech="n"/>
+            <Sense id="TS-en-endothelial cell-sense-0-n" synset="TS-en-endothelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-mesenchymal cell-n">
+            <Lemma writtenForm="mesenchymal cell" partOfSpeech="n"/>
+            <Sense id="TS-en-mesenchymal cell-sense-0-n" synset="TS-en-mesenchymal cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-hematopoietic cell-n">
+            <Lemma writtenForm="hematopoietic cell" partOfSpeech="n"/>
+            <Sense id="TS-en-hematopoietic cell-sense-0-n" synset="TS-en-hematopoietic cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-basal cell-n">
+            <Lemma writtenForm="basal cell" partOfSpeech="n"/>
+            <Sense id="TS-en-basal cell-sense-0-n" synset="TS-en-basal cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-ciliated cell-n">
+            <Lemma writtenForm="ciliated cell" partOfSpeech="n"/>
+            <Sense id="TS-en-ciliated cell-sense-0-n" synset="TS-en-ciliated cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-club cell-n">
+            <Lemma writtenForm="club cell" partOfSpeech="n"/>
+            <Sense id="TS-en-club cell-sense-0-n" synset="TS-en-club cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-lung goblet cell-n">
+            <Lemma writtenForm="lung goblet cell" partOfSpeech="n"/>
+            <Sense id="TS-en-lung goblet cell-sense-0-n" synset="TS-en-lung goblet cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-pulmonary ionocyte-n">
+            <Lemma writtenForm="pulmonary ionocyte" partOfSpeech="n"/>
+            <Sense id="TS-en-pulmonary ionocyte-sense-0-n" synset="TS-en-pulmonary ionocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-endothelial cell of artery-n">
+            <Lemma writtenForm="endothelial cell of artery" partOfSpeech="n"/>
+            <Sense id="TS-en-endothelial cell of artery-sense-0-n" synset="TS-en-endothelial cell of artery-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-vein endothelial cell-n">
+            <Lemma writtenForm="vein endothelial cell" partOfSpeech="n"/>
+            <Sense id="TS-en-vein endothelial cell-sense-0-n" synset="TS-en-vein endothelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-capillary endothelial cell-n">
+            <Lemma writtenForm="capillary endothelial cell" partOfSpeech="n"/>
+            <Sense id="TS-en-capillary endothelial cell-sense-0-n" synset="TS-en-capillary endothelial cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-endothelial cell of lymphatic vessel-n">
+            <Lemma writtenForm="endothelial cell of lymphatic vessel" partOfSpeech="n"/>
+            <Sense id="TS-en-endothelial cell of lymphatic vessel-sense-0-n" synset="TS-en-endothelial cell of lymphatic vessel-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-fibroblast-n">
+            <Lemma writtenForm="fibroblast" partOfSpeech="n"/>
+            <Sense id="TS-en-fibroblast-sense-0-n" synset="TS-en-fibroblast-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-pericyte-n">
+            <Lemma writtenForm="pericyte" partOfSpeech="n"/>
+            <Sense id="TS-en-pericyte-sense-0-n" synset="TS-en-pericyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-smooth muscle cell-n">
+            <Lemma writtenForm="smooth muscle cell" partOfSpeech="n"/>
+            <Sense id="TS-en-smooth muscle cell-sense-0-n" synset="TS-en-smooth muscle cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-bronchial smooth muscle cell-n">
+            <Lemma writtenForm="bronchial smooth muscle cell" partOfSpeech="n"/>
+            <Sense id="TS-en-bronchial smooth muscle cell-sense-0-n" synset="TS-en-bronchial smooth muscle cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-vascular associated smooth muscle cell-n">
+            <Lemma writtenForm="vascular associated smooth muscle cell" partOfSpeech="n"/>
+            <Sense id="TS-en-vascular associated smooth muscle cell-sense-0-n" synset="TS-en-vascular associated smooth muscle cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-lymphoid lineage-n">
+            <Lemma writtenForm="lymphoid lineage" partOfSpeech="n"/>
+            <Sense id="TS-en-lymphoid lineage-sense-0-n" synset="TS-en-lymphoid lineage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-myeloid lineage-n">
+            <Lemma writtenForm="myeloid lineage" partOfSpeech="n"/>
+            <Sense id="TS-en-myeloid lineage-sense-0-n" synset="TS-en-myeloid lineage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-B cell-n">
+            <Lemma writtenForm="B cell" partOfSpeech="n"/>
+            <Sense id="TS-en-B cell-sense-0-n" synset="TS-en-B cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-plasma cell-n">
+            <Lemma writtenForm="plasma cell" partOfSpeech="n"/>
+            <Sense id="TS-en-plasma cell-sense-0-n" synset="TS-en-plasma cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-mature NK T cell-n">
+            <Lemma writtenForm="mature NK T cell" partOfSpeech="n"/>
+            <Sense id="TS-en-mature NK T cell-sense-0-n" synset="TS-en-mature NK T cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-monocyte-n">
+            <Lemma writtenForm="monocyte" partOfSpeech="n"/>
+            <Sense id="TS-en-monocyte-sense-0-n" synset="TS-en-monocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-macrophage-n">
+            <Lemma writtenForm="macrophage" partOfSpeech="n"/>
+            <Sense id="TS-en-macrophage-sense-0-n" synset="TS-en-macrophage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-dendritic cell-n">
+            <Lemma writtenForm="dendritic cell" partOfSpeech="n"/>
+            <Sense id="TS-en-dendritic cell-sense-0-n" synset="TS-en-dendritic cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-classical monocyte-n">
+            <Lemma writtenForm="classical monocyte" partOfSpeech="n"/>
+            <Sense id="TS-en-classical monocyte-sense-0-n" synset="TS-en-classical monocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-intermediate monocyte-n">
+            <Lemma writtenForm="intermediate monocyte" partOfSpeech="n"/>
+            <Sense id="TS-en-intermediate monocyte-sense-0-n" synset="TS-en-intermediate monocyte-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="TS-en-non_classical monocyte-n">
+            <Lemma writtenForm="non_classical monocyte" partOfSpeech="n"/>
+            <Sense id="TS-en-non_classical monocyte-sense-0-n" synset="TS-en-non_classical monocyte-synset-0-n"/>
+        </LexicalEntry>
+        <Synset id="TS-en-cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-cell-sense-0-n">
+            <SynsetRelation relType="hyponym" target="TS-en-eukaryotic cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-eukaryotic cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-eukaryotic cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-epithelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-endothelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-mesenchymal cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-hematopoietic cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-epithelial cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-epithelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-eukaryotic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-basal cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-ciliated cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-club cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-lung goblet cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-pulmonary ionocyte-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-endothelial cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-endothelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-eukaryotic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-endothelial cell of artery-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-vein endothelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-capillary endothelial cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-endothelial cell of lymphatic vessel-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-mesenchymal cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-mesenchymal cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-eukaryotic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-fibroblast-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-pericyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-smooth muscle cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-hematopoietic cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-hematopoietic cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-eukaryotic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-lymphoid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-basal cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-basal cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-ciliated cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-ciliated cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-club cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-club cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-lung goblet cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-lung goblet cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-pulmonary ionocyte-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-pulmonary ionocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-epithelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-endothelial cell of artery-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-endothelial cell of artery-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-endothelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-vein endothelial cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-vein endothelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-endothelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-capillary endothelial cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-capillary endothelial cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-endothelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-endothelial cell of lymphatic vessel-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-endothelial cell of lymphatic vessel-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-endothelial cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-fibroblast-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-fibroblast-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-mesenchymal cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-pericyte-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-pericyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-mesenchymal cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-smooth muscle cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-smooth muscle cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-mesenchymal cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-bronchial smooth muscle cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-vascular associated smooth muscle cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-bronchial smooth muscle cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-bronchial smooth muscle cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-smooth muscle cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-vascular associated smooth muscle cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-vascular associated smooth muscle cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-smooth muscle cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-lymphoid lineage-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-lymphoid lineage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-hematopoietic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-B cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-plasma cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-mature NK T cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-myeloid lineage-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-myeloid lineage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-hematopoietic cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-monocyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-macrophage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-dendritic cell-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-B cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-B cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-lymphoid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-plasma cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-plasma cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-lymphoid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-mature NK T cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-mature NK T cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-lymphoid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-monocyte-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-monocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-myeloid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-classical monocyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-intermediate monocyte-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="TS-en-non_classical monocyte-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-macrophage-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-macrophage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-dendritic cell-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-dendritic cell-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-classical monocyte-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-classical monocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-monocyte-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-intermediate monocyte-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-intermediate monocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-monocyte-synset-0-n"/>
+        </Synset>
+        <Synset id="TS-en-non_classical monocyte-synset-0-n" ili="in" partOfSpeech="n" members="TS-en-non_classical monocyte-sense-0-n">
+            <SynsetRelation relType="hypernym" target="TS-en-monocyte-synset-0-n"/>
+        </Synset>
+    </Lexicon>
+</LexicalResource>

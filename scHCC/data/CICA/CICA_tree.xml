@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.1.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+    <Lexicon id="CICA-en" label="Wordnet for the CICA dataset" language="en" email="email@email" license="https://creativecommons.org/licenses/by/4.0/" version="1.0">
+        <LexicalEntry id="CICA-en-cell-n">
+            <Lemma writtenForm="cell" partOfSpeech="n"/>
+            <Sense id="CICA-en-cell-sense-0-n" synset="CICA-en-cell-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Myeloid lineage-n">
+            <Lemma writtenForm="Myeloid lineage" partOfSpeech="n"/>
+            <Sense id="CICA-en-Myeloid lineage-sense-0-n" synset="CICA-en-Myeloid lineage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Lymphoid lineage-n">
+            <Lemma writtenForm="Lymphoid lineage" partOfSpeech="n"/>
+            <Sense id="CICA-en-Lymphoid lineage-sense-0-n" synset="CICA-en-Lymphoid lineage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Doublets / multiplets-n">
+            <Lemma writtenForm="Doublets / multiplets" partOfSpeech="n"/>
+            <Sense id="CICA-en-Doublets / multiplets-sense-0-n" synset="CICA-en-Doublets / multiplets-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Monocytes-n">
+            <Lemma writtenForm="Monocytes" partOfSpeech="n"/>
+            <Sense id="CICA-en-Monocytes-sense-0-n" synset="CICA-en-Monocytes-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Classical monocytes-n">
+            <Lemma writtenForm="Classical monocytes" partOfSpeech="n"/>
+            <Sense id="CICA-en-Classical monocytes-sense-0-n" synset="CICA-en-Classical monocytes-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Nonclassical monocytes-n">
+            <Lemma writtenForm="Nonclassical monocytes" partOfSpeech="n"/>
+            <Sense id="CICA-en-Nonclassical monocytes-sense-0-n" synset="CICA-en-Nonclassical monocytes-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Macrophages-n">
+            <Lemma writtenForm="Macrophages" partOfSpeech="n"/>
+            <Sense id="CICA-en-Macrophages-sense-0-n" synset="CICA-en-Macrophages-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Intermediate macrophages-n">
+            <Lemma writtenForm="Intermediate macrophages" partOfSpeech="n"/>
+            <Sense id="CICA-en-Intermediate macrophages-sense-0-n" synset="CICA-en-Intermediate macrophages-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Alveolar macrophages-n">
+            <Lemma writtenForm="Alveolar macrophages" partOfSpeech="n"/>
+            <Sense id="CICA-en-Alveolar macrophages-sense-0-n" synset="CICA-en-Alveolar macrophages-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Intestinal macrophages-n">
+            <Lemma writtenForm="Intestinal macrophages" partOfSpeech="n"/>
+            <Sense id="CICA-en-Intestinal macrophages-sense-0-n" synset="CICA-en-Intestinal macrophages-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Erythrophagocytic macrophages-n">
+            <Lemma writtenForm="Erythrophagocytic macrophages" partOfSpeech="n"/>
+            <Sense id="CICA-en-Erythrophagocytic macrophages-sense-0-n" synset="CICA-en-Erythrophagocytic macrophages-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Mast cells-n">
+            <Lemma writtenForm="Mast cells" partOfSpeech="n"/>
+            <Sense id="CICA-en-Mast cells-sense-0-n" synset="CICA-en-Mast cells-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-B cell lineage-n">
+            <Lemma writtenForm="B cell lineage" partOfSpeech="n"/>
+            <Sense id="CICA-en-B cell lineage-sense-0-n" synset="CICA-en-B cell lineage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Naive B cells-n">
+            <Lemma writtenForm="Naive B cells" partOfSpeech="n"/>
+            <Sense id="CICA-en-Naive B cells-sense-0-n" synset="CICA-en-Naive B cells-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Memory B cells-n">
+            <Lemma writtenForm="Memory B cells" partOfSpeech="n"/>
+            <Sense id="CICA-en-Memory B cells-sense-0-n" synset="CICA-en-Memory B cells-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Plasmablasts-n">
+            <Lemma writtenForm="Plasmablasts" partOfSpeech="n"/>
+            <Sense id="CICA-en-Plasmablasts-sense-0-n" synset="CICA-en-Plasmablasts-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Plasma cells-n">
+            <Lemma writtenForm="Plasma cells" partOfSpeech="n"/>
+            <Sense id="CICA-en-Plasma cells-sense-0-n" synset="CICA-en-Plasma cells-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-ABCs-n">
+            <Lemma writtenForm="ABCs" partOfSpeech="n"/>
+            <Sense id="CICA-en-ABCs-sense-0-n" synset="CICA-en-ABCs-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-T cell lineage-n">
+            <Lemma writtenForm="T cell lineage" partOfSpeech="n"/>
+            <Sense id="CICA-en-T cell lineage-sense-0-n" synset="CICA-en-T cell lineage-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-T_CD4/CD8-n">
+            <Lemma writtenForm="T_CD4/CD8" partOfSpeech="n"/>
+            <Sense id="CICA-en-T_CD4/CD8-sense-0-n" synset="CICA-en-T_CD4/CD8-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-CD4+ T cells-n">
+            <Lemma writtenForm="CD4+ T cells" partOfSpeech="n"/>
+            <Sense id="CICA-en-CD4+ T cells-sense-0-n" synset="CICA-en-CD4+ T cells-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Tnaive/CM_CD4-n">
+            <Lemma writtenForm="Tnaive/CM_CD4" partOfSpeech="n"/>
+            <Sense id="CICA-en-Tnaive/CM_CD4-sense-0-n" synset="CICA-en-Tnaive/CM_CD4-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Tnaive/CM_CD4_activated-n">
+            <Lemma writtenForm="Tnaive/CM_CD4_activated" partOfSpeech="n"/>
+            <Sense id="CICA-en-Tnaive/CM_CD4_activated-sense-0-n" synset="CICA-en-Tnaive/CM_CD4_activated-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Teffector/EM_CD4-n">
+            <Lemma writtenForm="Teffector/EM_CD4" partOfSpeech="n"/>
+            <Sense id="CICA-en-Teffector/EM_CD4-sense-0-n" synset="CICA-en-Teffector/EM_CD4-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Trm_Th1/Th17-n">
+            <Lemma writtenForm="Trm_Th1/Th17" partOfSpeech="n"/>
+            <Sense id="CICA-en-Trm_Th1/Th17-sense-0-n" synset="CICA-en-Trm_Th1/Th17-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Tregs-n">
+            <Lemma writtenForm="Tregs" partOfSpeech="n"/>
+            <Sense id="CICA-en-Tregs-sense-0-n" synset="CICA-en-Tregs-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Tfh-n">
+            <Lemma writtenForm="Tfh" partOfSpeech="n"/>
+            <Sense id="CICA-en-Tfh-sense-0-n" synset="CICA-en-Tfh-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-CD8+ T cells-n">
+            <Lemma writtenForm="CD8+ T cells" partOfSpeech="n"/>
+            <Sense id="CICA-en-CD8+ T cells-sense-0-n" synset="CICA-en-CD8+ T cells-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Tnaive/CM_CD8-n">
+            <Lemma writtenForm="Tnaive/CM_CD8" partOfSpeech="n"/>
+            <Sense id="CICA-en-Tnaive/CM_CD8-sense-0-n" synset="CICA-en-Tnaive/CM_CD8-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Tem/emra_CD8-n">
+            <Lemma writtenForm="Tem/emra_CD8" partOfSpeech="n"/>
+            <Sense id="CICA-en-Tem/emra_CD8-sense-0-n" synset="CICA-en-Tem/emra_CD8-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Trm/em_CD8-n">
+            <Lemma writtenForm="Trm/em_CD8" partOfSpeech="n"/>
+            <Sense id="CICA-en-Trm/em_CD8-sense-0-n" synset="CICA-en-Trm/em_CD8-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Trm_gut_CD8-n">
+            <Lemma writtenForm="Trm_gut_CD8" partOfSpeech="n"/>
+            <Sense id="CICA-en-Trm_gut_CD8-sense-0-n" synset="CICA-en-Trm_gut_CD8-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Other T cells-n">
+            <Lemma writtenForm="Other T cells" partOfSpeech="n"/>
+            <Sense id="CICA-en-Other T cells-sense-0-n" synset="CICA-en-Other T cells-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-MAIT-n">
+            <Lemma writtenForm="MAIT" partOfSpeech="n"/>
+            <Sense id="CICA-en-MAIT-sense-0-n" synset="CICA-en-MAIT-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Tgd_CRTAM+-n">
+            <Lemma writtenForm="Tgd_CRTAM+" partOfSpeech="n"/>
+            <Sense id="CICA-en-Tgd_CRTAM+-sense-0-n" synset="CICA-en-Tgd_CRTAM+-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Trm_Tgd-n">
+            <Lemma writtenForm="Trm_Tgd" partOfSpeech="n"/>
+            <Sense id="CICA-en-Trm_Tgd-sense-0-n" synset="CICA-en-Trm_Tgd-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-Natural Killer cells-n">
+            <Lemma writtenForm="Natural Killer cells" partOfSpeech="n"/>
+            <Sense id="CICA-en-Natural Killer cells-sense-0-n" synset="CICA-en-Natural Killer cells-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-NK_CD16+-n">
+            <Lemma writtenForm="NK_CD16+" partOfSpeech="n"/>
+            <Sense id="CICA-en-NK_CD16+-sense-0-n" synset="CICA-en-NK_CD16+-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-NK_CD56bright_CD16--n">
+            <Lemma writtenForm="NK_CD56bright_CD16-" partOfSpeech="n"/>
+            <Sense id="CICA-en-NK_CD56bright_CD16--sense-0-n" synset="CICA-en-NK_CD56bright_CD16--synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-MNP/B doublets-n">
+            <Lemma writtenForm="MNP/B doublets" partOfSpeech="n"/>
+            <Sense id="CICA-en-MNP/B doublets-sense-0-n" synset="CICA-en-MNP/B doublets-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-MNP/T doublets-n">
+            <Lemma writtenForm="MNP/T doublets" partOfSpeech="n"/>
+            <Sense id="CICA-en-MNP/T doublets-sense-0-n" synset="CICA-en-MNP/T doublets-synset-0-n"/>
+        </LexicalEntry>
+        <LexicalEntry id="CICA-en-T/B doublets-n">
+            <Lemma writtenForm="T/B doublets" partOfSpeech="n"/>
+            <Sense id="CICA-en-T/B doublets-sense-0-n" synset="CICA-en-T/B doublets-synset-0-n"/>
+        </LexicalEntry>
+        <Synset id="CICA-en-cell-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-cell-sense-0-n">
+            <SynsetRelation relType="hyponym" target="CICA-en-Myeloid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Lymphoid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Doublets / multiplets-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Myeloid lineage-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Myeloid lineage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Monocytes-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Macrophages-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Mast cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Lymphoid lineage-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Lymphoid lineage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-B cell lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-T cell lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Natural Killer cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Doublets / multiplets-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Doublets / multiplets-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-cell-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-MNP/B doublets-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-MNP/T doublets-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-T/B doublets-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Monocytes-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Monocytes-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Myeloid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Classical monocytes-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Nonclassical monocytes-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Classical monocytes-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Classical monocytes-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Monocytes-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Nonclassical monocytes-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Nonclassical monocytes-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Monocytes-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Macrophages-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Macrophages-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Myeloid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Intermediate macrophages-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Alveolar macrophages-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Intestinal macrophages-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Erythrophagocytic macrophages-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Intermediate macrophages-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Intermediate macrophages-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Macrophages-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Alveolar macrophages-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Alveolar macrophages-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Macrophages-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Intestinal macrophages-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Intestinal macrophages-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Macrophages-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Erythrophagocytic macrophages-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Erythrophagocytic macrophages-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Macrophages-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Mast cells-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Mast cells-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Myeloid lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-B cell lineage-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-B cell lineage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Lymphoid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Naive B cells-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Memory B cells-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Plasmablasts-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Plasma cells-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-ABCs-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Naive B cells-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Naive B cells-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-B cell lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Memory B cells-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Memory B cells-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-B cell lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Plasmablasts-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Plasmablasts-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-B cell lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Plasma cells-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Plasma cells-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-B cell lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-ABCs-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-ABCs-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-B cell lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-T cell lineage-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-T cell lineage-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Lymphoid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-T_CD4/CD8-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-CD4+ T cells-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-CD8+ T cells-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Other T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-T_CD4/CD8-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-T_CD4/CD8-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-T cell lineage-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-CD4+ T cells-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-CD4+ T cells-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-T cell lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Tnaive/CM_CD4-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Tnaive/CM_CD4_activated-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Teffector/EM_CD4-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Trm_Th1/Th17-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Tregs-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Tfh-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Tnaive/CM_CD4-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Tnaive/CM_CD4-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD4+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Tnaive/CM_CD4_activated-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Tnaive/CM_CD4_activated-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD4+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Teffector/EM_CD4-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Teffector/EM_CD4-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD4+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Trm_Th1/Th17-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Trm_Th1/Th17-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD4+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Tregs-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Tregs-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD4+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Tfh-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Tfh-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD4+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-CD8+ T cells-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-CD8+ T cells-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-T cell lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Tnaive/CM_CD8-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Tem/emra_CD8-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Trm/em_CD8-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Trm_gut_CD8-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Tnaive/CM_CD8-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Tnaive/CM_CD8-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD8+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Tem/emra_CD8-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Tem/emra_CD8-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD8+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Trm/em_CD8-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Trm/em_CD8-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD8+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Trm_gut_CD8-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Trm_gut_CD8-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-CD8+ T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Other T cells-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Other T cells-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-T cell lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-MAIT-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Tgd_CRTAM+-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-Trm_Tgd-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-MAIT-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-MAIT-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Other T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Tgd_CRTAM+-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Tgd_CRTAM+-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Other T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Trm_Tgd-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Trm_Tgd-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Other T cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-Natural Killer cells-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-Natural Killer cells-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Lymphoid lineage-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-NK_CD16+-synset-0-n"/>
+            <SynsetRelation relType="hyponym" target="CICA-en-NK_CD56bright_CD16--synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-NK_CD16+-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-NK_CD16+-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Natural Killer cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-NK_CD56bright_CD16--synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-NK_CD56bright_CD16--sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Natural Killer cells-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-MNP/B doublets-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-MNP/B doublets-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Doublets / multiplets-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-MNP/T doublets-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-MNP/T doublets-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Doublets / multiplets-synset-0-n"/>
+        </Synset>
+        <Synset id="CICA-en-T/B doublets-synset-0-n" ili="in" partOfSpeech="n" members="CICA-en-T/B doublets-sense-0-n">
+            <SynsetRelation relType="hypernym" target="CICA-en-Doublets / multiplets-synset-0-n"/>
+        </Synset>
+    </Lexicon>
+</LexicalResource>
